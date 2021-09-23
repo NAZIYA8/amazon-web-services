@@ -18,11 +18,11 @@ Go to IAM and create a new user and give programmatic access and also add the po
 In the terminal, make changes in aws configure and add the following.
 When you create a new  user you will get the AWS access key id and AWS secret access key.
 
-AWS Access Key ID [None]: AKIAQU44RNYXGZV5X7QV
+AWS Access Key ID [None]: enter the access key id
 
-AWS Secret Access Key [None]: vyyToYdllQmUois/4fOYPBmohVTnL0px/IbG/qwx
+AWS Secret Access Key [None]: Enter the secret access key id
 
-Default region name [None]: ap-south-1
+Default region name [None]: region name you are in
 
 Default output format [None]: json
 
